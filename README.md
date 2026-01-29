@@ -1,4 +1,4 @@
-# 🔐 **SOC Analyst Lab Project: Nmap SYN Scan Detection with Wireshark**
+# 🔐 **SOC Analyst Lab Project: TCP SYN Port Scan Investigation Using Wireshark Packet Analysis**
 
 ![Wireshark Logo](https://www.wireshark.org/assets/theme-2015/images/wslogo.svg)
 ![Nmap Logo](https://nmap.org/images/sitelogo.png)
